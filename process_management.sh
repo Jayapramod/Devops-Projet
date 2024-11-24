@@ -1,6 +1,6 @@
 #!/bin/bash
-# File: process_management.sh
 
+# File: process_management.sh
 echo "Process Management Script"
 
 # List all running processes
