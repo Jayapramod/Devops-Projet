@@ -1,6 +1,5 @@
-Project Title:
-
 Automated Backup and Cleanup Script
+===================================
 Overview
 
 This Bash script automates the process of backing up files from a source directory to a destination directory. It includes optional compression, logging, and automatic cleanup of backups older than 7 days. The script is designed to ensure data safety and minimize manual intervention in backup tasks.
