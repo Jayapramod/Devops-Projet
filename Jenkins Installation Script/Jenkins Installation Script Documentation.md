@@ -1,8 +1,5 @@
-Jenkins Installation Script Documentation
-Project Title:
-
 Automated Jenkins Installation Script
-
+====================================
 This script provides an automated way to install and set up Jenkins on multiple operating systems. It checks for Java dependencies, installs the required Java version if not found, downloads the Jenkins WAR file, and starts the Jenkins server.
 Features
 
